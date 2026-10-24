@@ -1,68 +1,17 @@
-# Hi, I'm Adam 👋
+# Adam Jlidi
 
-🚀 Hackathon Participant
+Étudiant à [42 Paris](https://42.fr) depuis février 2026. Avant ça, je n'avais jamais codé : j'ai fait trois ans de licence de biologie.
 
-🤖 Building projects around AI and Healthcare
+Aujourd'hui, je construis surtout avec des agents IA. Plusieurs sessions Claude Code et Codex travaillent en parallèle, branchées sur des serveurs MCP, et rien ne part en build tant que la boucle de tests n'est pas verte.
 
-☁️ Exploring Cloud, DevOps and Infrastructure
+## Projets
 
-💻 Software Engineering Enthusiast
+- **Un projet privé** que je cofonde : un réseau social sur iOS, Android et web. Expo et React Native, une API ElysiaJS sur Cloudflare Workers, Postgres, Next.js. Le dépôt est privé.
+- **jepa-fly**, 2e sur 25 équipes au hackathon World Models parrainé par Yann LeCun ([Hack the World(s)](https://hacktheworlds.fr), juin 2026). Un modèle du monde JEPA entraîné sur l'activité simulée du cerveau de la drosophile, avec trois doctorants.
+- **[NeuroTrack](https://github.com/adamlepelletier923-gif/Projet-hackathon-D4GEN-TUMOUR)**, au hackathon D4Gen de Genopole (juin 2026) : le suivi d'une tumeur cérébrale d'une IRM à l'autre, jusqu'au verdict de réponse au traitement (RANO).
+- **[SmartDeploy](https://github.com/adamlepelletier923-gif/smartdeploy)** : un déploiement Kubernetes surveillé par Prometheus, qui revient en arrière tout seul quand la release se dégrade.
+- Le tronc commun de 42 : [Libft](https://github.com/adamlepelletier923-gif/LIBFT), [get_next_line](https://github.com/adamlepelletier923-gif/Get_next_line_), [push_swap](https://github.com/adamlepelletier923-gif/Push_swap), [Born2beroot](https://github.com/adamlepelletier923-gif/Born2BeRoot).
 
-## About Me
+## Me joindre
 
-I enjoy building practical solutions, participating in hackathons and learning modern technologies through hands-on projects.
-
-My main interests include:
-- Artificial Intelligence
-- Healthcare Technology
-- Cloud Computing
-- DevOps
-- Software Engineering
-
-## Current Focus
-
-- Building AI-powered applications
-- Learning Cloud & DevOps technologies
-- Participating in hackathons
-- Contributing to open-source projects
-- Improving my software engineering skills
-
-## Repositories
-
-Here you'll find:
-
-- Hackathon projects and prototypes
-- Python applications
-- Software engineering projects
-- Cloud & DevOps experiments
-- Learning projects and technical explorations at Ecole 42
-
-Most repositories include documentation, setup instructions and project details.
-
-## Featured Work
-
-- AI-focused hackathon projects
-- Software engineering projects
-- Cloud & DevOps experiments
-- Python applications
-
-## Technologies
-
-- Python
-- C/C++
-- Git
-- Linux
-- Bash
-
-## Currently Learning
-
-- Docker
-- Cloud Computing
-- DevOps Practices
-- Algorithms & Data Structures
-- Object-Oriented Programming
-
-## Connect With Me
-
-LinkedIn:
-www.linkedin.com/in/adam-jlidi-1a9504296
+Sur [LinkedIn](https://www.linkedin.com/in/adam-jlidi-1a9504296). Mon portfolio : [adamlepelletier923-gif.github.io/portfolio](https://adamlepelletier923-gif.github.io/portfolio/).
